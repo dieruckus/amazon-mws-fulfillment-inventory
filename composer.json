@@ -1,13 +1,13 @@
 {
-    "name": "aivanouski/amazon-mws-fulfillment-inventory",
+    "name": "dieruckus/amazon-mws-fulfillment-inventory",
     "type": "library",
     "description": "Amazon Marketplace Web Service Fulfillment Inventory API Client Library - PHP - Version 2010-10-01",
     "keywords": ["amazon", "mws", "fulfillment", "fulfillment-inventory", "inventory", "client", "api", "library"],
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Andrei Ivanouski",
-          "email": "aivanouski@gmail.com"
+          "name": "Alexander Ruckus",
+          "email": "dieruckusdie@gmail.com"
         }
     ],
     "require": {
